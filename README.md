@@ -1,13 +1,12 @@
-# BPM-Exercise Project
+# Camunda-Exercise Project
 
-### Welcome to the Novatec BPM-Exercise Project!
+### Welcome to the Novatec Camunda-Exercise Project!
 
-We have created this repository to familiarize our internal trainees with the topic of BPM. It is divided into two
+We have created this repository to familiarize our internal trainees with the topic of BPM. It is divided into three
 chapters: 
 
 1. In the first chapter you will learn the basics of process modeling, specifically with BPMN 2.0.
 Therefore, you´re going to model a process by a given business context.
-
 
 2. The second chapter deals with Camunda 7 and will give you an introduction to process automation.
 The second chapter also includes to implement your previously modeled bpmn-process with Camunda7 and
